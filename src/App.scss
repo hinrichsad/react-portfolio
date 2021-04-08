@@ -1,0 +1,19 @@
+@import './styles/layout.scss';
+@import './styles/navbar.scss';
+@import './styles//homepageText.scss';
+@import './styles/title.scss';
+@import './styles/skill.scss';
+@import './styles/portfolios.scss';
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+}
